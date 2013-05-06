@@ -27,5 +27,7 @@
     <br>
     <b><u>Result:</u></b>
     <mytag:helloWorld/>
+    <br>
+    <p>Some new text</p>
   </body>
 </html>
